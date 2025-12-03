@@ -1,7 +1,10 @@
 
  Total Revenue: 11819593.0
+ 
  Total Expense: 10344339.0
+ 
  Total Profit: 1475254.0
+ 
  Profit Margin (%): 12.48
 
 
