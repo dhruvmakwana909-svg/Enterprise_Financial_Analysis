@@ -1,4 +1,5 @@
-1. Project Overview
+
+
 This project analyzes the Annual Enterprise Survey 2023 (New Zealand) dataset to understand financial performance across industries.
 The dataset includes information on income, expenditure, and profitability of various industries.
 
